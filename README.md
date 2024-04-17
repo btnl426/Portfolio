@@ -8,36 +8,6 @@
 </br>
 
 ## 2. 사용 기술
-#### `Back-end`
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/bf31a248-4dea-47ba-8e6c-2d607619924c)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/c14c7d16-2288-4729-b098-e5372113a62d)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/7bf875f5-c1c7-4dc3-b64f-0833490434f0)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/acbaed77-4047-4952-b13d-aadf6b61229d)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/a0400580-afa3-4a1b-9e49-e98204cb8b79)
-
-#### `Front-end`
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/795cbc71-4b02-4548-96bd-aa8600631c40)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/9b57c5ed-afd2-4168-a555-d6e951e4b922)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/6ceef65b-caee-4b6c-81c8-b3e58a8b4dcb)
-  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/bd40bb88-94be-4744-9f55-2d897625f3e4)
-
-#### `API`
-  - Kakao Login API
-  - Naver Clova API
-#### `Model`
-  - KcElectra
-  - KoElectra
-  - GPT 3.5 turbo
-#### `배포`
-  - AWS
-#### `버전관리`
-  - GIT
-
-![image](https://github.com/btnl426/Portfolio/assets/146896149/99a55f07-0bb7-476c-8348-d3eda4c6fa73)
-![image](https://github.com/btnl426/Portfolio/assets/146896149/5fdf062e-8fed-4546-afbc-c7833083a159)
-![image](https://github.com/btnl426/Portfolio/assets/146896149/6eff9596-66a8-44ec-aad3-09a20c556efb)
-![image](https://github.com/btnl426/Portfolio/assets/146896149/c8d92a52-823e-49c6-be37-4755f24fdb96)
-
 
 
 기술 스택:
