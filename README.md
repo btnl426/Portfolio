@@ -29,10 +29,12 @@
 
 </br>
 
+## : '언어지능기반 분석 서비스모델 개발자과정' 과정 수료
+
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/illhanunjung/ReadFit)
 >2030 남성 신발 구매자를 위한 상품 분석 및 추천 사이트_챗봇 기능 포함 (팀 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>개발 기간: 2024.02.06 ~ 2024.04.06  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
