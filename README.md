@@ -32,6 +32,15 @@
   - AWS
 #### `버전관리`
   - GIT
+
+![image](https://github.com/btnl426/Portfolio/assets/146896149/99a55f07-0bb7-476c-8348-d3eda4c6fa73)
+![image](https://github.com/btnl426/Portfolio/assets/146896149/5fdf062e-8fed-4546-afbc-c7833083a159)
+![image](https://github.com/btnl426/Portfolio/assets/146896149/6eff9596-66a8-44ec-aad3-09a20c556efb)
+![image](https://github.com/btnl426/Portfolio/assets/146896149/c8d92a52-823e-49c6-be37-4755f24fdb96)
+
+
+
+
 </br>
 
 
