@@ -9,7 +9,8 @@
 
 ## 2. 사용 기술
 #### `Back-end`
-  - Java 
+  - Java ![image](https://github.com/btnl426/Portfolio/assets/146896149/bf31a248-4dea-47ba-8e6c-2d607619924c)
+
   - Spring Boot
   - MySQL 
   - Python 
