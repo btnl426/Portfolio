@@ -19,7 +19,8 @@
   - ![image](https://github.com/btnl426/Portfolio/assets/146896149/795cbc71-4b02-4548-96bd-aa8600631c40)
   - ![image](https://github.com/btnl426/Portfolio/assets/146896149/9b57c5ed-afd2-4168-a555-d6e951e4b922)
   - ![image](https://github.com/btnl426/Portfolio/assets/146896149/6ceef65b-caee-4b6c-81c8-b3e58a8b4dcb)
-  - Ajax
+  - ![image](https://github.com/btnl426/Portfolio/assets/146896149/bd40bb88-94be-4744-9f55-2d897625f3e4)
+
 #### `API`
   - Kakao Login API
   - Naver Clova API
@@ -43,10 +44,9 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
+### 1. [첫 번째 프로젝트](https://github.com/illhanunjung/ReadFit)
+>2030 남성 신발 구매자를 위한 상품 분석 및 추천 사이트_챗봇 기능 포함 (팀 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
->  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
