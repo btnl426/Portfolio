@@ -10,9 +10,6 @@
 ## 2. 사용 기술
 
 
-기술 스택:
-
-
 ![image](https://github.com/btnl426/Portfolio/assets/146896149/44492efc-40a5-4b98-b4d9-291a09f27c4c)
 ![image](https://github.com/btnl426/Portfolio/assets/146896149/450823ca-7d09-4fe3-bbe1-b78e0e1a6855)
 ![image](https://github.com/btnl426/Portfolio/assets/146896149/a219d9a1-0c2a-4c67-98cc-9eb72955f5c9)
