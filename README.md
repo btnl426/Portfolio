@@ -10,7 +10,6 @@
 ## :pushpin: Contact
 - 이메일: btnl426@gmail.com
 - 깃헙: https://github.com/btnl426
-(https://github.com/JungHyung2)
 
 </br>
 
